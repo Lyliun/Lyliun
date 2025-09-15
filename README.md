@@ -1,8 +1,6 @@
 # Hello World! I'm Lia 👋
 🇧🇷 Brazilian Developer | Passionate about Creativity & Tech
 
----
-
 ## 📌 About Me
 👩‍💻 Desenvolvedora desde 2022, apaixonada por transformar ideias em **projetos reais**.  
 🎨 Amo criar **shaders, bots interativos e ferramentas visuais**.  
@@ -10,14 +8,15 @@
 🌐 Interessada em **VR/AR, gráficos em tempo real e inovação digital**.  
 🚀 Sempre aprendendo, compartilhando conhecimento e crescendo como dev e pessoa.  
 
-![Coding GIF](https://media.giphy.com/media/3o7aCVX9wY3H4jK8Jy/giphy.gif)
-
 ---
 
 ## 🛠 Tech Stack
-| C# | Python | JavaScript | Node.js | Unity | TensorFlow |
-|---|---|---|---|---|---|
-| ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -25,8 +24,6 @@
 - 🎨 [**Lia's Shader**](link-do-repo) – Custom shader project for VR/3D graphics  
 - 🤖 [**Discord Bot**](link-do-repo) – Automation and interactive commands  
 - 🔬 [**Machine Learning Experiments**](link-do-repo) – Personal ML projects and notebooks  
-
-![Projects GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
@@ -40,15 +37,6 @@
 - Aprimorar **Machine Learning aplicado à automação**  
 - Criar e publicar mais **projetos open-source**  
 - Explorar novas técnicas em **gráficos em tempo real e shaders**
-
-![Learning GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
----
-
-## 💡 Skills Progress
-C# | Python | JavaScript | Unity | ML  
-:--: | :--: | :--: | :--: | :--:  
-████████░░ | ████████░░ | ███████░░░ | ████████░░ | ██████░░░░  
 
 ---
 
