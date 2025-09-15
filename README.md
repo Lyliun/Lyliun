@@ -2,11 +2,13 @@
 🇧🇷 Brazilian Developer | Passionate about Creativity & Tech
 
 ## 📌 About Me
-👩‍💻 Desenvolvedora desde 2022, apaixonada por transformar ideias em **projetos reais**.  
-🎨 Amo criar **shaders, bots interativos e ferramentas visuais**.  
-🤖 Explorando **Automação e Machine Learning** para soluções inteligentes.  
-🌐 Interessada em **VR/AR, gráficos em tempo real e inovação digital**.  
-🚀 Sempre aprendendo, compartilhando conhecimento e crescendo como dev e pessoa.  
+👩‍💻 Developer since 2022, passionate about turning ideas into **real projects**.  
+🎨 I love creating **shaders, interactive bots, and visual tools**.  
+🤖 Exploring **Automation and Machine Learning** for smart solutions.  
+🌐 Interested in **VR/AR, real-time graphics, and digital innovation**.  
+🚀 Always learning, sharing knowledge, and growing as a dev and a person. 
+
+![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyZjd6aXhyejUwdnZ1bHJ0YjA2djhyZW9vMXlobWZhYWRsNjh0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
 
 ---
 
@@ -21,26 +23,22 @@
 ---
 
 ## 🚀 Featured Projects
-- 🎨 [**Lia's Shader**](link-do-repo) – Custom shader project for VR/3D graphics  
-- 🤖 [**Discord Bot**](link-do-repo) – Automation and interactive commands  
-- 🔬 [**Machine Learning Experiments**](link-do-repo) – Personal ML projects and notebooks  
-
+- 🎨 [**Lia's Shader**](https://github.com/Lyliun/Lia-s-Shader) – Custom shader project for VR/3D
 ---
 
 ## 📊 GitHub Stats
-![Lia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Lia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyliun&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyliun&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 Current Goals
-- Aprimorar **Machine Learning aplicado à automação**  
-- Criar e publicar mais **projetos open-source**  
-- Explorar novas técnicas em **gráficos em tempo real e shaders**
+- Improve **Machine Learning applied to automation**  
+- Create and publish more **open-source projects**  
+- Explore new techniques in **real-time graphics and shaders**
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link-do-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link-do-twitter)
+[![Discord](https://img.shields.io/badge/Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaruLabs)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyliun)
