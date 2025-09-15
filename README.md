@@ -2,7 +2,7 @@
 
 A Brazilian developer passionate about **automation, machine learning, and game development**.  
 
-📌 Currently working on a **Discord Bot**  
+📌 Currently working on a **Lia's Shader**  
 📚 Studying **Automation & Machine Learning**  
 💻 Coding since 2022
 
