@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Lily
+# 👋 Hello! I'm LiA
 A Brazilian developer passionate about **automation, machine learning, and game development**.  
 📌 Currently working on a **Discord Bot**  
 📚 Studying **Automation & Machine Learning**  
