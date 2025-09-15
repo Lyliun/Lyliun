@@ -36,11 +36,9 @@ A Brazilian developer passionate about **automation, machine learning, and game 
 ---
 
 ## 🌐 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)  
-[![Twitter](https://img.shields.io/badge/Twitter-@usuario-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/usuario)  
-[![Email](https://img.shields.io/badge/Email-Lily-blue?style=for-the-badge&logo=gmail)](mailto:seuemail@email.com)
+[![Discord Server](https://img.shields.io/badge/Discord-Profile-blue?style=for-the-badge&logo=discord)](https://discord.gg/KaruLabs)  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Leoaozinho&icon=6&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Lyliun&icon=6&color=4)](https://visitcount.itsvg.in)
 
