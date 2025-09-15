@@ -29,9 +29,9 @@ A Brazilian developer passionate about **automation, machine learning, and game 
 ---
 
 ## 📊 GitHub Stats
-![Lily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leoaozinho&theme=dark&include_all_commits=false&count_private=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leoaozinho&theme=dark&layout=compact)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Leoaozinho&theme=dark)
+![Lily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyliun&theme=dark&include_all_commits=false&count_private=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyliun&theme=dark&layout=compact)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Lyliun&theme=dark)
 
 ---
 
