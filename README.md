@@ -1,5 +1,7 @@
 # 👋 Hello! I'm LiA
+
 A Brazilian developer passionate about **automation, machine learning, and game development**.  
+
 📌 Currently working on a **Discord Bot**  
 📚 Studying **Automation & Machine Learning**  
 💻 Coding since 2022
