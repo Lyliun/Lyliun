@@ -8,7 +8,7 @@
 🌐 Interested in **VR/AR, real-time graphics, and digital innovation**.  
 🚀 Always learning, sharing knowledge, and growing as a dev and a person. 
 
-![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyZjd6aXhyejUwdnZ1bHJ0YjA2djhyZW9vMXlobWZhYWRsNjh0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
+![Coding GIF](https://giphy.com/gifs/computer-reality-mind-128Ygie2wLdH5m)
 
 ---
 
