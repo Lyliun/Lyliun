@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🎨 [**Lia's Shader**]([https://github.com/Lyliun/Lia-s-Shader]) – Custom shader project for VR/3D graphics  
+- 🎨 [**Lia's Shader**](https://github.com/Lyliun/Lia-s-Shader) – Custom shader project for VR/3D graphics  
 - 🤖 [**Discord Bot**](link-do-repo) – Automation and interactive commands  
 - 🔬 [**Machine Learning Experiments**](link-do-repo) – Personal ML projects and notebooks  
 
