@@ -8,8 +8,6 @@
 🌐 Interested in **VR/AR, real-time graphics, and digital innovation**.  
 🚀 Always learning, sharing knowledge, and growing as a dev and a person. 
 
-![Coding GIF](https://giphy.com/gifs/computer-reality-mind-128Ygie2wLdH5m)
-
 ---
 
 ## 🛠 Tech Stack
