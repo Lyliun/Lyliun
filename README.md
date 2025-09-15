@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 - 🎨 [**Lia's Shader**](https://github.com/Lyliun/Lia-s-Shader) – Custom shader project for VR/3D
 ---
 
