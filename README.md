@@ -1,42 +1,146 @@
-# Hello World! I'm Lia 👋
-🇧🇷 Brazilian Developer | Passionate about Creativity & Tech
+<div align="center">
+  
+# 👋 Hello World! I'm Lia
 
-## 📌 About Me
-👩‍💻 Developer since 2022, passionate about turning ideas into **real projects**.  
-🎨 I love creating **shaders, interactive bots, and visual tools**.  
-🤖 Exploring **Automation and Machine Learning** for smart solutions.  
-🌐 Interested in **VR/AR, real-time graphics, and digital innovation**.  
-🚀 Always learning, sharing knowledge, and growing as a dev and a person. 
+### 🇧🇷 Brazilian Developer | Passionate about Creativity & Tech
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaruLabs)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyliun)
+![Profile Views](https://komarev.com/ghpvc/?username=Lyliun&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 About Me
+
+```javascript
+const lia = {
+    location: "Brazil 🇧🇷",
+    role: "Fullstack Developer",
+    journey: "Coding since 2022",
+    passions: [
+        "🎨 Shaders & Visual Effects",
+        "🤖 Interactive Bots & Automation",
+        "🧠 Machine Learning",
+        "🥽 VR/AR Experiences",
+        "✨ Fullstack Developing"
+    ],
+    motto: "Turning ideas into real projects ✨"
+};
+```
+
+<div align="center">
+
+### 💡 What Drives Me
+
+**Creating** • **Learning** • **Sharing** • **Growing**
+
+*I believe in the driving power of technology to transform lifes and lead us to a bright future*
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Core Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Specialties
+`React.Js` • `Java` • `TailwindCss` • `Python` • `Node.Js`
+
+</div>
 
 ---
 
-## 🚀 Featured Project
-- 🎨 [**Lia's Shader**](https://github.com/Lyliun/Lia-s-Shader) – Custom shader project for VR/3D
+## 🎨 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌈 [Lia's Shader](https://github.com/Lyliun/Lia-s-Shader)
+Custom shader project for VR/3D environments
+
+**✨ Highlights:**
+- Real-time visual effects
+- Optimized for VR performance
+- Creative shader techniques
+
+</td>
+<td width="50%">
+
+### 🚀 More Coming Soon...
+I'm constantly working on new projects!
+
+**🔭 Areas I'm exploring:**
+- Prompt Engineering
+- Javascript
+- Mathmatics
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats
-![Lia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyliun&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyliun&layout=compact&theme=radical)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lyliun&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyliun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyliun&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 🌱 Current Goals
-- Improve **Machine Learning applied to automation**  
-- Create and publish more **open-source projects**  
-- Explore new techniques in **real-time graphics and shaders**
+🎯 Current Focus
+graph LR
+    A[📘 TypeScript] --> B[⚛️ React.js]
+    C[🎨 Shaders] --> D[🎨 TailwindCSS]
+    E[📦 Open Source] --> F[🌍 Community]
+    B --> G[🚀 Innovation]
+    D --> G
+    F --> G
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+**I'm always open to interesting conversations and collaborations!**
+
+[![Discord](https://img.shields.io/badge/Join_my_Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaruLabs)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyliun)
+
+</div>
 
 ---
 
-## 📫 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaruLabs)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyliun)
+<div align="center">
+
+### ⚡ Fun Fact
+
+*"Good ideas do not sprout on their own. We have to care them well."*
+
+**Thanks for visiting! 💜**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
