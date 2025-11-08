@@ -110,7 +110,9 @@ I'm constantly working on new projects!
 
 ---
 
-🎯 Current Focus
+## 🎯 Current Focus
+
+```mermaid
 graph LR
     A[📘 TypeScript] --> B[⚛️ React.js]
     C[🎨 Shaders] --> D[🎨 TailwindCSS]
@@ -118,7 +120,10 @@ graph LR
     B --> G[🚀 Innovation]
     D --> G
     F --> G
----
+
+```
+
+<div align="center">
 
 ## 💬 Let's Connect!
 
