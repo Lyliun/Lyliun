@@ -115,8 +115,8 @@ I'm constantly working on new projects!
 ```mermaid
 graph LR
     A[📘 TypeScript] --> B[⚛️ React.js]
-    C[🎨 Shaders] --> D[🎨 TailwindCSS]
-    E[📦 Open Source] --> F[🌍 Community]
+    C[💻 C#] --> D[🎨 ShaderLab]
+    E[📦 Open Source] --> F[🌍 Networking]
     B --> G[🚀 Innovation]
     D --> G
     F --> G
