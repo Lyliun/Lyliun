@@ -142,7 +142,7 @@ graph LR
 
 ### ⚡ Fun Fact
 
-*"Good ideas do not sprout on their own. We have to care them well."*
+*"Good ideas do not sprout on their own. We have to nurture them well."*
 
 **Thanks for visiting! 💜**
 
