@@ -144,7 +144,7 @@ graph LR
 
 *"Good ideas do not sprout on their own. We have to nurture them well."*
 
-**Thanks for visiting! 💜**
+**Obrigado por Visitar meu perfil! 💜**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
