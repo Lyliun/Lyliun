@@ -104,10 +104,6 @@ I'm constantly working on new projects!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyliun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyliun&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🎯 Current Focus
