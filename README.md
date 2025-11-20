@@ -93,18 +93,6 @@ Custom to-do list for daily tasks
 - Change between task states(Done/Pending)
 
 </td>
-
-<td width="50%">
-
-### 🚀 More Coming Soon...
-I'm constantly working on new projects!
-
-**🔭 Areas I'm exploring:**
-- Prompt Engineering
-- Javascript
-- Mathmatics
-
-</td>
 </tr>
 </table>
 
