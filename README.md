@@ -75,15 +75,25 @@ const lia = {
 ### 🌈 [Lia's Shader](https://github.com/Lyliun/Lia-s-Shader)
 Custom shader project for VR/3D environments
 
-### 🔔 [Simplify Project](https://github.com/Lyliun/projeto-simplify)
-Custom to-do list for daily tasks
-
 **✨ Highlights:**
 - Real-time visual effects
 - Optimized for VR performance
 - Creative shader techniques
 
 </td>
+
+<td width="50%">
+
+### 🔔 [Simplify Project](https://github.com/Lyliun/projeto-simplify)
+Custom to-do list for daily tasks
+
+**✨ Highlights:**
+- Quickly add daily tasks
+- Task Priority System(Low, Medium, High)
+- Change between task states(Done/Pending)
+
+</td>
+
 <td width="50%">
 
 ### 🚀 More Coming Soon...
