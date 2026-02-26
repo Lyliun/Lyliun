@@ -98,15 +98,6 @@ Custom to-do list for daily tasks
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lyliun&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyliun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```mermaid
